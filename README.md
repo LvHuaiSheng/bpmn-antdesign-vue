@@ -1,4 +1,5 @@
 # bpmn-antdesign-vue
+![](https://github.com/LvHuaiSheng/bpmn-antdesign-vue/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220406110945.png)
 
 ## Project setup
 ```
